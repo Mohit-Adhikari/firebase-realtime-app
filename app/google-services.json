@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273994155257",
+    "project_id": "omabs-60e08",
+    "storage_bucket": "omabs-60e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273994155257:android:f28ecb137af4e9c41f4e28",
+        "android_client_info": {
+          "package_name": "com.example.a4thsemproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojt3T-v95ib_eoBWq1U6kf6wFZvyqa2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273994155257:android:3c2384f80cc970b81f4e28",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojt3T-v95ib_eoBWq1U6kf6wFZvyqa2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
